@@ -1,3 +1,4 @@
+
 # Hi there, I'm Brijesh Chaudhary 👋 
 
 <p align="center">
@@ -5,73 +6,65 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brijeshchaudhary13&label=Profile%20Views&color=7aa2f7&style=for-the-badge" alt="Views" />
-  <a href="https://www.linkedin.com/in/brijeshchaudhary13/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:chaudharybrijesh0007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=brijeshchaudhary13&label=Profile%20Views&color=7aa2f7&style=flat-square" alt="Views" />
+  <a href="https://www.linkedin.com/in/brijeshchaudhary13/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:chaudharybrijesh0007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-I am a **Software Engineer** specializing in **C++ Development** and **Automotive Simulation Tools**. With over 3.7 years of experience at **TCS** and my current role at **Panacea Medical Technologies**, I focus on building high-performance, scalable, and reliable software solutions.
+Software Engineer with **3+ years of experience** in building high-performance systems using **C++**.  
+Currently working at **Panacea Medical Technologies**, focusing on **medical software and simulation systems**.
 
-- 🛠️ **Expertise:** C++ (98/11), STL, Multi-threading, and Data Structures.
-- 🚗 **Background:** Specialized in Automotive domain simulation and optimization tools.
-- 🎓 **Education:** MCA from **IET Lucknow** | BCA from **MLK PG College**.
-- 💡 **Passion:** Solving complex algorithmic problems and adopting modern agricultural tech.
-- 🔭 **Current Focus:** Designing advanced software for medical technologies at Panacea.
+- 🛠️ Strong in **C++ (98/11), STL, Multithreading**
+- 📊 Solid understanding of **Data Structures & Algorithms**
+- 🚗 Experience in **Automotive & Medical domain software**
+- 🎯 Focused on writing **efficient, scalable, and reliable code**
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Technical Skills
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) |
-| **Specialized** | `STL` `Multi-threading` `Design Patterns` `Data Structures & Algorithms` |
+| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white) |
+| **Core Concepts** | `STL` `Multithreading` `OOP` `Design Patterns` `DSA` |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MS SQL](https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) |
-| **Dev Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
 ---
 
-### 📂 Featured Works
-- **Ecommerce Platform:** A full-stack web application designed for scalability.
-- **College Management System:** Optimized database architecture for educational workflows.
-- **Automotive Simulation:** (Professional Experience) Development of C++ based optimization tools.
+### 📂 Featured Projects
+- **E-Commerce Platform** — Scalable full-stack application  
+- **College Management System** — Optimized database-driven system  
+- **Automotive Simulation Tools** — High-performance C++ optimization tools  
 
 ---
 
-### 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brijeshchaudhary13&show_icons=true&theme=tokyonight&hide_border=false" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshchaudhary13&layout=compact&theme=tokyonight&hide_border=false" width="40%" />
-</p>
+### 📊 Problem Solving Profile
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshchaudhary13&theme=tokyonight" alt="GitHub Streak" />
+
+<a href="https://leetcode.com/u/Brijesh1996/">
+  <img src="https://img.shields.io/badge/LeetCode-49-orange?style=flat&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/brijeshchaudhary13/">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-105-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.naukri.com/code360/profile/brijeshc13">
+  <img src="https://img.shields.io/badge/Coding%20Ninjas-71-DD0031?style=flat"/>
+</a>
+
+<img src="https://img.shields.io/badge/Total-225-blue?style=flat"/>
+
 </p>
-
----
-
-### 🚀 DSA Journey
-
-<p align="center">
-  <a href="https://leetcode.com/u/Brijesh1996/">
-    <img src="https://img.shields.io/badge/LeetCode-49%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/brijeshchaudhary13/">
-    <img src="https://img.shields.io/badge/GFG-105%20Solved-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="https://www.naukri.com/code360/profile/brijeshc13">
-    <img src="https://img.shields.io/badge/Coding%20Ninjas-71%20Solved-red?style=for-the-badge&logo=codingninjas&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Total-225%20Problems%20Solved-blueviolet?style=for-the-badge" />
-</p>
-
----
 
 <p align="center">
   <img src="https://quickchart.io/chart?c={
@@ -81,8 +74,7 @@ I am a **Software Engineer** specializing in **C++ Development** and **Automotiv
       datasets:[
         {
           label:'Problems Solved',
-          data:[49,105,71],
-          backgroundColor:['#FFA116','#2F8D46','#DD0031']
+          data:[49,105,71]
         }
       ]
     },
@@ -91,29 +83,47 @@ I am a **Software Engineer** specializing in **C++ Development** and **Automotiv
         legend:{display:false},
         title:{
           display:true,
-          text:'DSA Problem Solving Progress',
-          font:{size:18}
+          text:'Problem Solving Distribution'
+        }
+      },
+      scales:{
+        y:{
+          beginAtZero:true
         }
       }
     }
-  }" width="80%" />
+  }" width="70%" />
 </p>
-
-
-
-### 🏆 Key Certifications
-- 📜 **C++ for C Programmers** (University of California)
-- 📜 **Software Engineer Intern** (HackerRank Certified)
-- 📜 **Python Intermediate** (TCS Certified)
-- 📜 **Problem Solving (Intermediate)** (HackerRank)
 
 ---
 
-### 📫 Let's Connect
-- 💼 **LinkedIn:** [brijeshchaudhary13](https://www.linkedin.com/in/brijeshchaudhary13)
-- 📧 **Email:** [chaudharybrijesh0007@gmail.com](mailto:chaudharybrijesh0007@gmail.com)
-- 📍 **Location:** Pune / Siddharth Nagar, India
+### 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brijeshchaudhary13&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brijeshchaudhary13&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
 
-<p align="right">
-  <i>"Pushing the bounds of logic and performance."</i>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brijeshchaudhary13&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🏆 Certifications
+- C++ for C Programmers — University of California  
+- HackerRank Software Engineer Certification  
+- Python Intermediate — TCS  
+- Problem Solving (Intermediate) — HackerRank  
+
+---
+
+### 📫 Contact
+- 💼 LinkedIn: https://www.linkedin.com/in/brijeshchaudhary13  
+- 📧 Email: chaudharybrijesh0007@gmail.com  
+- 📍 India  
+
+---
+
+<p align="center">
+  <i>"Focused on building efficient systems and solving real-world problems."</i>
 </p>
