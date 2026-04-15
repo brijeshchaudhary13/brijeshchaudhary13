@@ -53,6 +53,54 @@ I am a **Software Engineer** specializing in **C++ Development** and **Automotiv
 
 ---
 
+### 🚀 DSA Journey
+
+<p align="center">
+  <a href="https://leetcode.com/u/Brijesh1996/">
+    <img src="https://img.shields.io/badge/LeetCode-49%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/brijeshchaudhary13/">
+    <img src="https://img.shields.io/badge/GFG-105%20Solved-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/brijeshc13">
+    <img src="https://img.shields.io/badge/Coding%20Ninjas-71%20Solved-red?style=for-the-badge&logo=codingninjas&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total-225%20Problems%20Solved-blueviolet?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quickchart.io/chart?c={
+    type:'bar',
+    data:{
+      labels:['LeetCode','GFG','Coding Ninja'],
+      datasets:[
+        {
+          label:'Problems Solved',
+          data:[49,105,71],
+          backgroundColor:['#FFA116','#2F8D46','#DD0031']
+        }
+      ]
+    },
+    options:{
+      plugins:{
+        legend:{display:false},
+        title:{
+          display:true,
+          text:'DSA Problem Solving Progress',
+          font:{size:18}
+        }
+      }
+    }
+  }" width="80%" />
+</p>
+
+
+
 ### 🏆 Key Certifications
 - 📜 **C++ for C Programmers** (University of California)
 - 📜 **Software Engineer Intern** (HackerRank Certified)
