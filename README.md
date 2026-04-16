@@ -120,7 +120,7 @@ Currently working at **Panacea Medical Technologies**, focusing on **medical sof
 ### 📫 Contact
 - 💼 LinkedIn: https://www.linkedin.com/in/brijeshchaudhary13  
 - 📧 Email: chaudharybrijesh0007@gmail.com  
-- 📍 India  
+- 📍 Pune MH India  
 
 ---
 
