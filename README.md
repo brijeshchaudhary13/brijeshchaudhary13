@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 About Me
-Software Engineer with **3+ years of experience** in building high-performance systems using **C++**.  
+Software Engineer with **4.2+ years of experience** in building high-performance systems using **C++**.  
 Currently working at **Panacea Medical Technologies**, focusing on **medical software and simulation systems**.
 
 - 🛠️ Strong in **C++ (98/11), STL, Multithreading**
